@@ -5,6 +5,6 @@ https://www.kaggle.com/spandanpatnaik09/face-mask-detectormask-not-mask-incorrec
 
 This dataset can be used for face mask detection. It is divided it into 3 categories:
 
-> People wearing mask
-> People not wearing mask
-> People wearing mask but in an incorrect manner
+1. People wearing mask
+2. People not wearing mask
+3. People wearing mask but in an incorrect manner
